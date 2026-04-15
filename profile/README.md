@@ -1,4 +1,4 @@
-# cosimo-dev — AI Development & Intelligent Automation
+# www.cosimo.dev —  Web developer Full Stack, AI Development & Intelligent Automation
 
 Organizzazione di **Cosmin-Anton Mihoc**, Full Stack Developer specializzato in **sviluppo AI**, **automazione intelligente** e **integrazione di modelli linguistici** in applicazioni reali.
 
